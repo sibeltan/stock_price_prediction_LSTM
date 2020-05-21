@@ -20,4 +20,10 @@ RMSE = 8.388251442610185
 
 ![predictions](./img/preds.png)
 
+Sources:
+https://www.youtube.com/watch?v=QIUxPv5PJOY
+https://finance.yahoo.com/quote/SPY/
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
 Question: Can we rely on a robust LSTM network when making investment decisions?
